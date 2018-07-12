@@ -14,6 +14,7 @@ All the above steps should be in one function called process_image()
 """
 
 # TODO: Import OpenCV
+import numpy as np
 import cv2
 
 # TODO: Edit this function
